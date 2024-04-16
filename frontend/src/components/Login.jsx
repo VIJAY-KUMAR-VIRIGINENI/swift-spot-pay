@@ -4,7 +4,7 @@ import Container from "react-bootstrap/Container";
 import Card from "react-bootstrap/Card";
 import { FaUser } from "react-icons/fa";
 import { useState,useEffect} from "react";
-import "../App.css";
+
 import { useSelector, useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { login, reset } from "../features/auth/authSlice";

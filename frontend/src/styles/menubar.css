@@ -1,0 +1,11 @@
+.my-navbar {
+    height: 100px;
+  }
+  
+  .active-link .svg-inline--fa {
+    color: red;
+  }
+  
+  .nav-link-hover:hover .svg-inline--fa {
+    font-size: 1.5em;
+  }
