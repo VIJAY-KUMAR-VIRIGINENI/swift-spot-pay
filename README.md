@@ -19,6 +19,11 @@ Swift Spot Pay: revolutionize parking! Real-time prices, 1-click pay, auto exten
 - **Seamless Security:** Enjoy peace of mind with secure credit card transactions.
 - **User-Friendly Design:** Simple and intuitive interface accessible to everyone, regardless of tech experience.
 
+
+
+- ![image](https://github.com/VIJAY-KUMAR-VIRIGINENI/swift-spot-pay/assets/64634512/81de00c2-1df8-40c2-bacf-e0cf746268bb)
+
+
 **Tech Stack**
 
 **Frontend:**
