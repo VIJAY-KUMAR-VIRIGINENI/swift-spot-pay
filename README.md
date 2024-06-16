@@ -19,9 +19,40 @@ Swift Spot Pay: revolutionize parking! Real-time prices, 1-click pay, auto exten
 - **Seamless Security:** Enjoy peace of mind with secure credit card transactions.
 - **User-Friendly Design:** Simple and intuitive interface accessible to everyone, regardless of tech experience.
 
+- Landing Page
+- ![image](https://github.com/VIJAY-KUMAR-VIRIGINENI/swift-spot-pay/assets/64634512/af148834-75b4-4d54-ae2c-0063a7260000)
 
 
+- **Registration Page
+-
+- ![image](https://github.com/VIJAY-KUMAR-VIRIGINENI/swift-spot-pay/assets/64634512/5a7e2321-da6a-4f2f-8d48-deb35e5ecf39)
+
+
+
+- **Login
 - ![image](https://github.com/VIJAY-KUMAR-VIRIGINENI/swift-spot-pay/assets/64634512/81de00c2-1df8-40c2-bacf-e0cf746268bb)
+
+- **Home Page
+- ![image](https://github.com/VIJAY-KUMAR-VIRIGINENI/swift-spot-pay/assets/64634512/72b30e89-cbb7-4a4a-981c-e912907c002e)
+
+- **Home Page(Vehicle Parked)
+- ![image](https://github.com/VIJAY-KUMAR-VIRIGINENI/swift-spot-pay/assets/64634512/832d7fba-e3b3-4557-98f8-eb66922e4e0d)
+
+- Payment
+- ![image](https://github.com/VIJAY-KUMAR-VIRIGINENI/swift-spot-pay/assets/64634512/cb027663-4bff-4646-8bcd-14ac8b59a561)
+
+- ParkingZones(Due to lack of realt ime parking data entire city has been divided into two parking zones)
+- ![image](https://github.com/VIJAY-KUMAR-VIRIGINENI/swift-spot-pay/assets/64634512/7ca0fa25-dc80-48ed-b203-10ac88d1228c)
+
+- Billing Records
+- ![image](https://github.com/VIJAY-KUMAR-VIRIGINENI/swift-spot-pay/assets/64634512/c4b0ef06-9175-4c2b-abe0-2b038e6bbdff)
+
+
+
+
+
+
+
 
 
 **Tech Stack**
